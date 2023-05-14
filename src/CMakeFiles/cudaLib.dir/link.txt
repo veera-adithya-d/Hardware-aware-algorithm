@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcudaLib.a CMakeFiles/cudaLib.dir/cudaLib_generated_cudaLib.cu.o
+/usr/bin/ranlib libcudaLib.a

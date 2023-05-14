@@ -1,0 +1,7 @@
+/home/chris241/695TA/solutions/60827_assignment4/CMakeFiles/rebuild_cache.dir
+/home/chris241/695TA/solutions/60827_assignment4/CMakeFiles/edit_cache.dir
+/home/chris241/695TA/solutions/60827_assignment4/CMakeFiles/lab3.dir
+/home/chris241/695TA/solutions/60827_assignment4/src/CMakeFiles/rebuild_cache.dir
+/home/chris241/695TA/solutions/60827_assignment4/src/CMakeFiles/cpuLib.dir
+/home/chris241/695TA/solutions/60827_assignment4/src/CMakeFiles/edit_cache.dir
+/home/chris241/695TA/solutions/60827_assignment4/src/CMakeFiles/cudaLib.dir
