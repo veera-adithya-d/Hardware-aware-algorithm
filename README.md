@@ -1,5 +1,5 @@
-# AlexNet-CUDA
-AlexNet is a deep convolutional neural network (CNN) for image classification on the ImageNet dataset, achieving state-of-the-art performance at the time of publication. The network architecture features multiple convolutional and fully connected layers to let use techniques such as data augmentation and dropout regularization to improve generalization for classification tasks. This is specifically programmed in CUDA to analyze parallel workloads with various optimizations.
+# ImageNet-CUDA
+AlexNet/ImageNet is a deep convolutional neural network (CNN) for image classification on the ImageNet dataset, achieving state-of-the-art performance at the time of publication. The network architecture features multiple convolutional and fully connected layers to let use techniques such as data augmentation and dropout regularization to improve generalization for classification tasks. This is specifically programmed in CUDA to analyze parallel workloads with various optimizations.
 
 ![alexnet](https://github.com/AdithyaDV/AlexNet-CUDA/assets/44144424/982cfb42-9f15-4fb5-ac14-dd4c5aab30da)
 ![anet-table](https://github.com/AdithyaDV/AlexNet-CUDA/assets/44144424/adece48c-e459-4b75-8b73-f3cf632796cd)
